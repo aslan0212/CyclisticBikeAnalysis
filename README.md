@@ -16,4 +16,4 @@ Moreno has set a clear goal: Design marketing strategies aimed at converting cas
 
 ### Asks
 #### Business Tasks
-Since our team will design a new marketing strategy to convert casual riders into annual members, Maam Lily Moreno, a marketing director, and a stakeholder in this project, wants to know the difference in the use of the Cyclistic Program between the annual members and casual riders.
+Since our team will design a new marketing strategy to convert casual riders into annual members, Lily Moreno, a marketing director, and a stakeholder in this project, wants to know the difference in the use of the Cyclistic Program between the annual members and casual riders.
