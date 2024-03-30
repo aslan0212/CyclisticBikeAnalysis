@@ -59,5 +59,16 @@ After the transformation process, I "Close & Apply" to start with the visualizat
 
 ## Analyze and Act
 In analyzing this dataset, I created a page for Insights and Recommendations that I gathered in analyzing the dataset. 
+
+#### Home Page
+
+![Home_Dashboard](https://github.com/aslan0212/CyclisticBikeAnalysis/assets/140794262/d36c2410-677a-4617-b2f0-0456f25f6069)
+
+#### Stations Page
+
+![Stations_Dashboard](https://github.com/aslan0212/CyclisticBikeAnalysis/assets/140794262/1439e70f-0a2c-4d63-ad64-c1ea013da73a)
+
+#### Insights Page
+
 ![Insights_Dashboard](https://github.com/aslan0212/CyclisticBikeAnalysis/assets/140794262/6743c802-6623-4181-b88f-42b9092d38b1)
 
