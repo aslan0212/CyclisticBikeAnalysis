@@ -56,3 +56,8 @@ After transforming the Date columns, I proceeded to calculate the total ride len
 #### Load
 
 After the transformation process, I "Close & Apply" to start with the visualization of charts in providing and fulfilling the business task for the project.
+
+## Analyze
+In analyzing this dataset, I created a page for Insights and Recommendations that I gathered in analyzing the dataset. 
+![Insights_Dashboard](https://github.com/aslan0212/CyclisticBikeAnalysis/assets/140794262/6743c802-6623-4181-b88f-42b9092d38b1)
+
