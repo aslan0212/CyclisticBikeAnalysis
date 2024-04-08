@@ -66,7 +66,8 @@ In analyzing this dataset, I created a page for Insights and Recommendations tha
 
 #### Stations Page
 
-![Stations_Dashboard](https://github.com/aslan0212/CyclisticBikeAnalysis/assets/140794262/1439e70f-0a2c-4d63-ad64-c1ea013da73a)
+![image](https://github.com/ochengco-paolo/CyclisticBikeAnalysis/assets/140794262/d2e2da4e-70da-4f78-a983-4e27dd048db6)
+
 
 #### Insights Page
 
